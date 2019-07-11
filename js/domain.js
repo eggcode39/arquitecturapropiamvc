@@ -1,4 +1,4 @@
-var urlweb = "http://localhost:8080/arquitecturapropiamvc/";
+var urlweb = "http://localhost/arquitecturapropiamvc/";
 
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
